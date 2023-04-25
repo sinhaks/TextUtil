@@ -9,7 +9,7 @@ function App() {
   <Navbar title="TextUtil" aboutText="About Us"/>
   {/* <Navbar/> */}
   <div className='container'>
-  <TextBox heading="Enter Your Text Here"/>
+  <TextBox heading="Enter Your Text Below"/>
   </div>
   </>
   );
